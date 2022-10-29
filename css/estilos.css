@@ -1,0 +1,64 @@
+.triangulo-equilatero-bottom {
+    width: 0;
+    height: 0;
+    border-right: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-left: 100px solid transparent;
+    border-bottom: 100px solid #160d01;
+    
+}
+
+.tri_1{
+
+    border:7px solid #2c4774;
+    border-top-color:transparent;
+    border-left-color:transparent;
+
+}
+
+.tri_2{
+
+    border:7px solid #2c4774;
+    border-right-color:transparent;
+    border-left-color:transparent;
+    border-width:0px 30px 60px;
+
+}
+.tri_3{
+
+    border:7px solid #2c4774;
+    border-right-color:transparent;
+    border-left-color:transparent;
+    border-width:0px 10px 60px 50px;
+
+
+}
+.general{
+    display: inline-block;
+}
+
+#ejemplo2-3 {
+    margin-left: 10px;
+    border-top:200px solid rgb(153, 151, 151);
+    border-right:200px solid transparent;
+    border-left:200px solid transparent;
+    height:0;
+    width:0;
+  }
+ .pa {
+    position: relative;
+    left: 100;
+    color: #160d01;
+ } 
+ .pb {
+    position: relative;
+    top: -230px;
+    left: 210px;
+    color: #160d01;
+ } 
+ .pc {
+    position: relative;
+    top: -250px;
+    left: -210px;
+    color: #160d01;
+ } 
